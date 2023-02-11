@@ -6,15 +6,16 @@
  */
 namespace app\controllers;
 
-use wfm\Controller;
-/**
- * Description of MainController
- *
- * @author Yerkebulan
- */
-class MainController extends Controller{
-    //put your code here
+use app\models\Main;
+use RedBeanPHP\R;
+
+
+/** @property Main $model */
+class MainController extends AppController{
     public function indexAction(){
-        
+        $slides = R::findAll('slider');
+        $products = $this->model->get_hits(1, 6);
+        $this->set(compact('slides', 'products'));
+        $this->setMeta("Главная страница", 'description...', 'keywords...');
     }
 }

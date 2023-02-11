@@ -40,3 +40,349 @@
 =================
 [2023-02-03 05:19:32] Текст ошибки: Не найден вид C:\xampp\htdocs\new-ishop.loc/app/views/admin/Main/index.php | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 41
 =================
+[2023-02-03 05:30:14] Текст ошибки: Не найден шаблон C:\xampp\htdocs\new-ishop.loc/app/views/layouts/ishop.php | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 51
+=================
+[2023-02-03 05:31:03] Текст ошибки: Не найден шаблон C:\xampp\htdocs\new-ishop.loc/app/views/layouts/test.php | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 51
+=================
+[2023-02-03 05:31:46] Текст ошибки: Не найден шаблон C:\xampp\htdocs\new-ishop.loc/app/views/layouts/test2.php | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 51
+=================
+[2023-02-03 05:31:47] Текст ошибки: Не найден шаблон C:\xampp\htdocs\new-ishop.loc/app/views/layouts/test2.php | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 51
+=================
+[2023-02-03 05:33:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-03 07:51:22] Текст ошибки: Undefined variable $tihs | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\MainController.php | Строка: 18
+=================
+[2023-02-03 07:51:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-03 07:51:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-03 09:21:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-03 13:27:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-03 14:00:00] Текст ошибки: Class "app\controllers\R" not found | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\MainController.php | Строка: 16
+=================
+[2023-02-03 14:00:12] Текст ошибки: syntax error, unexpected token "/", expecting "," or ";" | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\MainController.php | Строка: 11
+=================
+[2023-02-05 11:32:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 10:39:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:05:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:05:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:05:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:13:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:19:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-06 14:20:29] Текст ошибки: Undefined constant "this" | Файл: C:\xampp\htdocs\new-ishop.loc\app\views\layouts\ishop.php | Строка: 20
+=================
+[2023-02-07 04:14:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 06:12:26] Текст ошибки: Class "app\controllers\ontroller" not found | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\AppController.php | Строка: 15
+=================
+[2023-02-07 19:09:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:09:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:09:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:09:34] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:09:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:10:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:10:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:11:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:11:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:11:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:11:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:14:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:14:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:18:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:18:00] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:23:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:23:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:23:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:23:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-02-07 19:24:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:25:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-07 19:26:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:41:47] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-02-08 05:42:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:44:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:44:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:44:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:44:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 05:44:36] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 11:08:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-08 14:47:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 10:57:08] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 10:59:31] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 10:59:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 10:59:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 10:59:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 10:59:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 10:59:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:00:58] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:00:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:00:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:00:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:00:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:00:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:04:29] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:06:14] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:06:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:06:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:06:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:06:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:06:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:13:10] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:22:42] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:22:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:24:18] Текст ошибки: Call to a member function getDatabase() on null | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\View.php | Строка: 69
+=================
+[2023-02-10 11:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:24:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:34:18] Текст ошибки: Class "app\controllers\AppModel" not found | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\AppController.php | Строка: 18
+=================
+[2023-02-10 11:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:35:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:36:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:36:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:36:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:36:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 11:36:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:05:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:06:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:06:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:06:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:06:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:06:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 60
+=================
+[2023-02-10 12:08:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-10 12:08:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-10 12:08:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-10 12:08:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-10 12:08:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-11 05:13:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-11 05:13:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-11 05:13:45] Текст ошибки: Class "app\controllers\App" not found | Файл: C:\xampp\htdocs\new-ishop.loc\app\controllers\AppController.php | Строка: 22
+=================
+[2023-02-11 05:13:45] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-02-11 05:14:20] Текст ошибки: Namespace declaration statement has to be the very first statement or after any declare call in the script | Файл: C:\xampp\htdocs\new-ishop.loc\app\widgets\language\Language.php | Строка: 4
+=================

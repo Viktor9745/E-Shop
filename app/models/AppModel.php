@@ -5,16 +5,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/PHPClass.php to edit this template
  */
 
-namespace app\controllers\admin;
-use wfm\Controller;
+namespace app\models;
+
+use wfm\Model;
 /**
- * Description of MainController
+ * Description of AppModel
  *
  * @author Yerkebulan
  */
-class MainController extends Controller{
+class AppModel extends Model{
     //put your code here
-    public function indexAction(){
-        echo '<h1>ADMIN AREA</h1>';
-    }
 }

@@ -1,6 +1,4 @@
-<?php
-
-
+<?php 
 namespace wfm;
 
 
@@ -28,7 +26,6 @@ class Router
     protected static function removeQueryString($url){
         if($url){
             $params = explode('&', $url, 2);
-            debug($params);
             if(false === str_contains($params[0], '=')){
                 return rtrim($params[0], '/');
             }
